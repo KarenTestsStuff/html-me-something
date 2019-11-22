@@ -1,0 +1,35 @@
+body{
+    margin: 40px;
+    color: navy;
+    background-color: blanchedalmond;
+    text-align: center;
+    font-family: Tahoma, Geneva, sans-serif;
+    white-space: normal;
+}
+img{
+    padding-top: 0px;
+    padding-bottom: 40px;
+    object-fit: cover;
+}
+#title{
+    font-size: 72px;
+    color: coral;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+h2{
+    color: crimson
+}
+h3{
+    color: crimson
+}
+ul{
+    padding-top: 0px;
+    padding-right: 50px;
+    padding-bottom: 0px;
+    padding-left: 50px;
+    list-style-position: inside;
+    list-style-type: none;
+}
+.subtitle{
+    font-style: italic;
+}
